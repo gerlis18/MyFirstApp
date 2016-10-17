@@ -1,2 +1,2 @@
 # MyFirstApp
-My first app on android
+My first app on android with the course of android
